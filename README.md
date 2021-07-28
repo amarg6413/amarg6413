@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Hi there 👋
 ## Hello World! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="30px"></h2>
 
 <a href="https://twitter.com/amarg6413">
